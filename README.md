@@ -129,7 +129,8 @@ PathQuest/
 │   ├── components.py   
 ├── main.py               
 ├── requirements.txt
-└── LICENSE
+├── LICENSE
+└── .gitignore
 ```
 
 ---
