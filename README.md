@@ -120,6 +120,7 @@ Utilities
 
 ```
 PathQuest/
+├── config.py
 ├── core/
 │   ├── algorithms.py     
 │   ├── engine.py        
