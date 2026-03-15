@@ -126,8 +126,7 @@ PathQuest/
 │   ├── engine.py        
 │   └── heuristics.py    
 ├── ui/
-│   ├── renderer.py      
-│   └── components.py     
+│   ├── components.py   
 ├── main.py               
 ├── requirements.txt
 └── LICENSE
